@@ -102,11 +102,6 @@ Vellore Institute of Technology (VIT)
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
-
 
 ## ⭐ Show your support
 
