@@ -1,4 +1,6 @@
-# Autonomous Fire-Fighting Robot
+# 🔥 Autonomous Fire-Fighting Robot 🤖
+
+A low-cost embedded robotic system designed for autonomous fire detection, navigation, and suppression in hazardous environments.
 
 An Arduino-based autonomous robot designed to detect, navigate toward, and extinguish fire with minimal human intervention.
 
@@ -97,8 +99,15 @@ The robot uses sensors and control logic to automatically detect fire and suppre
 
 Vellore Institute of Technology (VIT)
 
+
 ---
 
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+
+
+## ⭐ Show your support
+
+If you like this project, consider giving it a ⭐ on GitHub!
