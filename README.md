@@ -1,53 +1,89 @@
 # 🔥 Autonomous Fire-Fighting Robot 🤖
 
-A low-cost embedded robotic system designed for autonomous fire detection, navigation, and suppression in hazardous environments.
-
-An Arduino-based autonomous robot designed to detect, navigate toward, and extinguish fire with minimal human intervention.
+A low-cost embedded robotic system designed for **autonomous fire detection, navigation, and suppression** in hazardous environments with minimal human intervention.
 
 ---
 
-## Overview
+## 🚀 Overview
 
-This project focuses on developing a low-cost embedded robotic system capable of operating in hazardous environments.  
-The robot uses sensors and control logic to automatically detect fire and suppress it efficiently.
+This project presents the design and development of an **Arduino-based autonomous fire-fighting robot** capable of detecting fire, avoiding obstacles, and extinguishing flames efficiently.
 
----
-
-## Features
-
-- 🔥 Real-time fire detection using flame sensor  
-- 🚧 Obstacle avoidance using ultrasonic sensor  
-- 🤖 Autonomous navigation  
-- 💧 Automatic fire extinguishing mechanism (pump + servo)  
-- 🔋 Battery-powered system  
+The system integrates sensors, actuators, and control algorithms to operate intelligently in real-time environments.
 
 ---
 
-## Working Principle
+## 🎯 Objectives
 
-1. The robot continuously scans its surroundings  
+- Detect fire using flame sensors  
+- Navigate autonomously in obstacle-filled environments  
+- Extinguish fire using an automated mechanism  
+- Reduce human risk in hazardous situations  
+- Build a cost-effective and scalable solution  
+
+---
+
+## 🧠 Core Concepts
+
+- Embedded Systems  
+- Sensor Interfacing  
+- Autonomous Navigation  
+- Obstacle Avoidance Algorithms  
+- Real-Time Processing  
+- Actuator Control  
+- Robotics & Automation  
+
+---
+
+## ⚙️ Hardware Components
+
+- **Arduino Uno** – Microcontroller (brain of the system)  
+- **Flame Sensor** – Detects fire  
+- **Ultrasonic Sensor (HC-SR04)** – Obstacle detection  
+- **L298N Motor Driver** – Controls motor movement  
+- **DC Motors & Wheels** – Robot mobility  
+- **Servo Motor** – Controls direction of water spray  
+- **Water Pump** – Fire extinguishing mechanism  
+- **Battery (7.4V–12V)** – Power supply  
+
+---
+
+## 💻 Software Implementation
+
+- Language: **C/C++ (Arduino IDE)**  
+
+### Key Modules:
+
+1. **Sensor Initialization**
+   - Configure flame and ultrasonic sensors  
+
+2. **Navigation Logic**
+   - Move forward and avoid obstacles  
+
+3. **Fire Detection**
+   - Continuously monitor flame sensor input  
+
+4. **Fire Suppression**
+   - Stop movement  
+   - Align servo  
+   - Activate water pump  
+
+5. **System Loop**
+   - Repeat detection and navigation  
+
+---
+
+## 🔄 Working Principle
+
+1. Robot scans surroundings continuously  
 2. Detects obstacles and navigates safely  
 3. Identifies fire using flame sensor  
-4. Stops and aligns toward fire source  
+4. Stops and positions toward fire  
 5. Activates pump to extinguish fire  
-6. Resumes operation after suppression  
+6. Resumes movement after suppression  
 
 ---
 
-## System Architecture
-
-- Arduino Uno (Microcontroller)
-- Flame Sensor (Fire Detection)
-- Ultrasonic Sensor (Obstacle Avoidance)
-- L298N Motor Driver
-- DC Motors (Movement)
-- Servo Motor (Direction control)
-- Water Pump (Fire suppression)
-- Battery (Power supply)
-
----
-
-## Project Images
+## 📸 Project Images
 
 ![Robot 1](images/fire_fighting_bot1.jpg)
 ![Robot 2](images/fire_fighting_bot2.jpg)
@@ -56,53 +92,65 @@ The robot uses sensors and control logic to automatically detect fire and suppre
 
 ---
 
-## Documentation
+## 📄 Documentation
 
 📘 [Project Report](docs/Fire_Fighting_Robot_Report_github.pdf)
 
 ---
 
-## Results
+## 📊 Results & Performance
 
-- ✅ Fire detection accuracy: ~90%  
-- ✅ Fast response time  
-- ✅ Successful obstacle avoidance  
-- ✅ Stable navigation in test environment  
+- 🔥 Fire Detection Accuracy: ~90%  
+- ⏱️ Response Time: < 3 seconds  
+- 🚧 Successful obstacle avoidance  
+- 🔋 Battery backup: ~30–40 minutes  
 
 ---
 
-## Applications
+## 🌍 Applications
 
-- Industrial safety systems  
-- Fire detection in hazardous environments  
+- Industrial fire safety systems  
 - Smart homes and buildings  
-- Defense and surveillance systems  
+- Hazardous environments (labs, factories)  
+- Defense and surveillance  
+- Agricultural storage safety  
 
 ---
 
-##  Future Scope
+## 🚀 Future Scope
 
-- AI-based fire detection using camera  
-- IoT integration for remote monitoring  
+- AI-based fire detection (camera + ML)  
+- IoT-based remote monitoring  
 - LiDAR-based navigation  
-- Multi-robot coordination (Swarm robotics)  
+- Swarm robotics (multiple robots)  
+- Improved power efficiency  
 
 ---
 
-## Team
+## 🛠️ Skills Gained
+
+- Embedded Systems Development  
+- Arduino Programming  
+- Sensor Integration  
+- Robotics Design  
+- Problem Solving & Debugging 
+- System Design Thinking  
+
+---
+
+## 👩‍💻 Team
 
 - Kesihambigai S 
 
 ---
 
-## Institution
+## 🏫 Institution
 
 Vellore Institute of Technology (VIT)
-
 
 ---
 
 
-## ⭐ Show your support
+## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
