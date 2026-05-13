@@ -1,10 +1,10 @@
-# 🔥 Autonomous Fire-Fighting Robot 🤖
+#  Autonomous Fire-Fighting Robot 
 
 A low-cost embedded robotic system designed for **autonomous fire detection, navigation, and suppression** in hazardous environments with minimal human intervention.
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project presents the design and development of an **Arduino-based autonomous fire-fighting robot** capable of detecting fire, avoiding obstacles, and extinguishing flames efficiently.
 
@@ -12,7 +12,7 @@ The system integrates sensors, actuators, and control algorithms to operate inte
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Detect fire using flame sensors  
 - Navigate autonomously in obstacle-filled environments  
@@ -22,7 +22,7 @@ The system integrates sensors, actuators, and control algorithms to operate inte
 
 ---
 
-## 🧠 Core Concepts
+##  Core Concepts
 
 - Embedded Systems  
 - Sensor Interfacing  
@@ -34,7 +34,7 @@ The system integrates sensors, actuators, and control algorithms to operate inte
 
 ---
 
-## ⚙️ Hardware Components
+##  Hardware Components
 
 - **Arduino Uno** – Microcontroller (brain of the system)  
 - **Flame Sensor** – Detects fire  
@@ -47,7 +47,7 @@ The system integrates sensors, actuators, and control algorithms to operate inte
 
 ---
 
-## 💻 Software Implementation
+##  Software Implementation
 
 - Language: **C/C++ (Arduino IDE)**  
 
@@ -72,7 +72,7 @@ The system integrates sensors, actuators, and control algorithms to operate inte
 
 ---
 
-## 🔄 Working Principle
+##  Working Principle
 
 1. Robot scans surroundings continuously  
 2. Detects obstacles and navigates safely  
@@ -83,7 +83,7 @@ The system integrates sensors, actuators, and control algorithms to operate inte
 
 ---
 
-## 📸 Project Images
+##  Project Images
 
 ![Robot 1](images/fire_fighting_bot1.jpg)
 ![Robot 2](images/fire_fighting_bot2.jpg)
@@ -92,22 +92,22 @@ The system integrates sensors, actuators, and control algorithms to operate inte
 
 ---
 
-## 📄 Documentation
+##  Documentation
 
-📘 [Project Report](docs/Fire_Fighting_Robot_Report_github.pdf)
-
----
-
-## 📊 Results & Performance
-
-- 🔥 Fire Detection Accuracy: ~90%  
-- ⏱️ Response Time: < 3 seconds  
-- 🚧 Successful obstacle avoidance  
-- 🔋 Battery backup: ~30–40 minutes  
+ [Project Report](docs/Fire_Fighting_Robot_Report_github.pdf)
 
 ---
 
-## 🌍 Applications
+##  Results & Performance
+
+-  Fire Detection Accuracy: ~90%  
+-  Response Time: < 3 seconds  
+-  Successful obstacle avoidance  
+-  Battery backup: ~30–40 minutes  
+
+---
+
+##  Applications
 
 - Industrial fire safety systems  
 - Smart homes and buildings  
@@ -117,7 +117,7 @@ The system integrates sensors, actuators, and control algorithms to operate inte
 
 ---
 
-## 🚀 Future Scope
+##  Future Scope
 
 - AI-based fire detection (camera + ML)  
 - IoT-based remote monitoring  
@@ -127,7 +127,7 @@ The system integrates sensors, actuators, and control algorithms to operate inte
 
 ---
 
-## 🛠️ Skills Gained
+##  Skills Gained
 
 - Embedded Systems Development  
 - Arduino Programming  
@@ -138,19 +138,19 @@ The system integrates sensors, actuators, and control algorithms to operate inte
 
 ---
 
-## 👩‍💻 Team
+##  Team
 
 - Kesihambigai S 
 
 ---
 
-## 🏫 Institution
+##  Institution
 
 Vellore Institute of Technology (VIT)
 
 ---
 
 
-## ⭐ Support
+##  Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
