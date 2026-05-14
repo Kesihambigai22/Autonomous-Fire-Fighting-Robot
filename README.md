@@ -1,3 +1,8 @@
+![Arduino](https://img.shields.io/badge/Arduino-Uno-blue)
+![Embedded Systems](https://img.shields.io/badge/Embedded-Robotics-green)
+![C++](https://img.shields.io/badge/Language-C++-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 #  Autonomous Fire-Fighting Robot 
 
 A low-cost embedded robotic system designed for **autonomous fire detection, navigation, and suppression** in hazardous environments with minimal human intervention.
@@ -118,6 +123,21 @@ Demo
 
 ---
 
+## How to Run
+
+### Hardware Setup
+- Connect all components as shown in `hardware/circuit.png`
+
+### Upload Code
+1. Open Arduino IDE
+2. Open `software/main_code.ino`
+3. Select Arduino Uno
+4. Upload code
+
+### Power ON
+- Connect battery supply
+- Robot starts autonomous navigation
+
 ##  Applications
 
 - Industrial fire safety systems  
@@ -154,6 +174,9 @@ Demo
 - Kesihambigai S 
 
 ---
+
+##  License
+MIT License
 
 ##  Institution
 
