@@ -45,6 +45,8 @@ The system integrates sensors, actuators, and control algorithms to operate inte
 - **Water Pump** – Fire extinguishing mechanism  
 - **Battery (7.4V–12V)** – Power supply  
 
+![Circuit](hardware/circuit.png)
+
 ---
 
 ##  Software Implementation
@@ -104,6 +106,15 @@ The system integrates sensors, actuators, and control algorithms to operate inte
 -  Response Time: < 3 seconds  
 -  Successful obstacle avoidance  
 -  Battery backup: ~30–40 minutes  
+
+Flame
+![results](results/flame.jpeg)
+
+No Flame
+![results](results/noflame.jpeg)
+
+Demo
+![results](results/demo.mp4)
 
 ---
 
