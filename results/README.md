@@ -1,33 +1,73 @@
-# 📊 Results & Performance
+#  Results and Demonstration
 
-This section presents the performance of the Autonomous Fire-Fighting Robot.
-
----
-
-## ✅ Observations
-
-- Robot successfully detected fire in test conditions  
-- Navigated around obstacles without collision  
-- Activated pump immediately after fire detection  
+This folder contains project outputs, testing images, and demonstration files.
 
 ---
 
-## 📈 Performance Metrics
+#  Files Included
 
-- 🔥 Fire Detection Accuracy: ~90%  
-- ⏱️ Response Time: < 3 seconds  
-- 🔋 Battery Backup: ~30–40 minutes  
-
----
-
-## 🧪 Testing Environment
-
-- Indoor lab setup  
-- Small controlled flame sources  
-- Obstacles placed randomly  
+| File | Description |
+|---|---|
+| demo.mp4 | Project demonstration video |
+| flame.jpeg | Fire detected condition |
+| noflame.jpeg | Normal condition |
+| README.md | Results documentation |
 
 ---
 
-## 📌 Conclusion
+#  Fire Detection Results
 
-The robot demonstrated reliable performance in controlled environments and effectively reduced human intervention in fire detection and suppression.
+## Flame Detected
+- Robot identifies fire successfully
+- Water pump activates
+- Servo aligns nozzle
+- Fire extinguishing begins
+
+Refer:
+- `flame.jpeg`
+
+---
+
+#  Normal Condition
+
+When no fire is present:
+- Robot continues navigation
+- Obstacle avoidance remains active
+- Water pump stays OFF
+
+Refer:
+- `noflame.jpeg`
+
+---
+
+#  Demonstration Video
+
+The video demonstrates:
+- Autonomous movement
+- Obstacle avoidance
+- Fire detection
+- Water spraying mechanism
+- Robot recovery after extinguishing
+
+Refer:
+- `demo.mp4`
+
+---
+
+#  Performance Highlights
+
+ Accurate fire detection  
+ Autonomous navigation  
+ Real-time response  
+ Stable obstacle avoidance  
+ Effective extinguishing mechanism  
+
+---
+
+#  Testing Conditions
+
+The robot was tested under:
+- Indoor lab environment
+- Controlled flame conditions
+- Obstacle-filled pathways
+- Battery-powered operation
